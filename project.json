@@ -1,0 +1,65 @@
+{
+    "project-1":{
+        "img":"imgs/FYLO.png",
+        "link":"https://riadosman.github.io/Front-end-mentor-08/",
+        "name":"FYLO",
+        "time":"5 DAY",
+        "description":"Fylo stores your most important files in one secure location. Access them wherever you need, share and collaborate with friends, family, and co-workers..."
+    },
+    "project-2":{
+        "img":"imgs/huddle.png",
+        "name":"HUDDLE",
+        "time":"1 DAY",
+        "link":"https://riadosman.github.io/Front-end-mentor-12/",
+        "description":"Build The Community Your Fans Will Love Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion..."
+    },
+    "project-3":{
+        "img":"imgs/grid.png",
+        "name":"NEWS",
+        "time":"2 DAY",
+        "link":"https://riadosman.github.io/Front-end-mentor-11/",
+        "description":"Awesome teaching support from TAs who did the bootcamp themselves. Getting guidance from them and learning from their experiences was easy..."
+    },
+    "project-4":{
+        "img":"imgs/sedans.png",
+        "name":"sedans",
+        "time":"1 DAY",
+        "link":"https://riadosman.github.io/Front-end-mentor-10/",
+        "description":"Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip..."
+    },
+    "project-5":{
+        "img":"imgs/phone.png",
+        "name":"Simple booking",
+        "time":"4 DAY",
+        "link":"https://riadosman.github.io/Front-end-mentor-09/",
+        "description":"Stay in touch with our dog walkers through the chat interface. This makes it easy to discuss arrangements and make bookings. Once the walk has been completed you can rate your walker and book again all through the chat..."
+    },
+    "project-6":{
+        "img":"imgs/shuddle.png",
+        "name":"HUDDLE",
+        "time":"4 DAY",
+        "link":"https://riadosman.github.io/Frontend-Mentor-5/",
+        "description":"Build The Community Your Fans Will Love Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion..."
+    },
+    "project-7":{
+        "img":"imgs/SUMMARY.png",
+        "name":"SUMMARY",
+        "link":"https://riadosman.github.io/Front-end-mentor-03/",
+        "time":"2 DAY",
+        "description":"Your Result 76 of 100 Great You scored higher than 65% of the people who have taken these tests..."
+    },
+    "project-8":{
+        "img":"imgs/EQ.png",
+        "name":"Equilibrium",
+        "link":"https://riadosman.github.io/front-end-mentor-01/",
+        "time":"2 DAY",
+        "description":"Our Equilibrium collection promotes balance and calm."
+    },
+    "project-9":{
+        "img":"imgs/WONDER.png",
+        "name":"Wonders of the World",
+        "time":"3 DAYS",
+        "link":"https://riadosman.github.io/mynew/#",
+        "description":"The Seven Wonders of the Ancient World is the oldest known list of this type, documenting the most remarkable man-made creations of classical antiquity..."
+    }
+}
