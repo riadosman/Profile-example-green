@@ -363,7 +363,7 @@ footer{
     background-color: transparent;
     border: 1px solid var(--main-color);
 }
-@media (max-width:376px) {
+@media (max-width:414px) {
     :root{
         --header-font-size: 20px;
         --normal-font-size: 10px;

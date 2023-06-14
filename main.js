@@ -82,7 +82,7 @@ window.addEventListener('load', function() {
   // Scroll to the top of the page
   window.scrollTo(0, 0);
 });
-if(window.innerWidth < 400 ){
+if(window.innerWidth < 500 ){
   swal("For a better experience", "please use a laptop or computer")  
 }
 
