@@ -42,7 +42,7 @@ function createProject(i,n,t,d,l){
   div.classList.add("project");
   div.style.backgroundImage = `url(${i})`;
   div.style.backgroundRepeat = "no-repeat";
-  div.style.backgroundSize = "cover";
+  div.style.backgroundSize = "contain";
   div.style.backgroundPosition = "center";
   projects.appendChild(div);
   let hoverText = document.createElement("div");
@@ -82,7 +82,24 @@ window.addEventListener('load', function() {
   // Scroll to the top of the page
   window.scrollTo(0, 0);
 });
-if(window.innerWidth < 500 ){
+if(window.innerWidth < 1000 ){
   swal("For a better experience", "please use a laptop or computer")  
 }
 
+// communicate
+let links = document.querySelectorAll(".links .link")
+let linkSrcs = ["https://www.facebook.com/riyad.osman.35/","https://github.com/riadosman/","mailto:riyados973@gmail.com","https://www.linkedin.com/in/riad-osman-6598ba24a/","https://www.upwork.com/freelancers/~01b653a11cced80aff"]
+links.forEach((e,i)=>{
+  e.addEventListener("click",()=>{
+    window.open(linkSrcs[i],"_blank")
+  })
+})
+
+// loading
+window.onload = function(){
+    let spn = document.querySelector(".spinner")
+    spn.style.display = "flex";
+    setTimeout(()=>{
+        spn.style.display = "none";
+    },2000)
+}
