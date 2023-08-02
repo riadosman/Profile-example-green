@@ -61,5 +61,33 @@
         "time":"3 DAYS",
         "link":"https://riadosman.github.io/mynew/#",
         "description":"The Seven Wonders of the Ancient World is the oldest known list of this type, documenting the most remarkable man-made creations of classical antiquity..."
+    },
+    "project-10":{
+        "img":"imgs/frontend-mentor-14-project.png",
+        "name":"Sunnyside",
+        "time":"4 DAYS",
+        "link":"https://riadosman.github.io/Front-end-mentor-14/",
+        "description":"The Seven Wonders of the Ancient World is the oldest known list of this type, documenting the most remarkable man-made creations of classical antiquity..."
+    },
+    "project-11":{
+        "img":"imgs/frontend-mentor-15-project.png",
+        "name":"Time tracker",
+        "time":"4 DAYS",
+        "link":"https://riadosman.github.io/Front-end-mentor-15/",
+        "description":"The Seven Wonders of the Ancient World is the oldest known list of this type, documenting the most remarkable man-made creations of classical antiquity..."
+    },
+    "project-12":{
+        "img":"imgs/frontend-mentor-16-project.png",
+        "name":"E-commerce",
+        "time":"8 DAYS",
+        "link":"https://riadosman.github.io/Front-end-mentor-16/",
+        "description":"Fall Limited Edition Sneakers These low-profile sneakers are your perfect casual wear companion. Featuring a durable rubber outer sole, they`ll withstand everything the weather can offer."
+    },
+    "project-13":{
+        "img":"imgs/frontend-mentor-17-project.png",
+        "name":"Where in the world?",
+        "time":"10 DAYS",
+        "link":"https://riadosman.github.io/Front-end-mentor-17/",
+        "description":"The Seven Wonders of the Ancient World is the oldest known list of this type, documenting the most remarkable man-made creations of classical antiquity..."
     }
 }

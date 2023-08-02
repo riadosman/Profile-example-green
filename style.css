@@ -163,7 +163,7 @@ section{
 .skills{
     flex-wrap: wrap;
     display: inline-flex;
-    width: 500px;
+    width: 600px;
     justify-content: space-around;
     margin: 20px;
 }
@@ -177,6 +177,7 @@ section{
     cursor: pointer;
 }
 .skill{
+    text-transform: uppercase;
     width: 150px;
     margin: 20px;
     text-align: center;
@@ -224,7 +225,7 @@ section{
     margin: 10px;
 }
 .hover-text{
-    padding: 90px 20px;
+    padding: 70px 20px;
     opacity: 0;
     transition: 1s;
     width: 350px;
@@ -232,18 +233,13 @@ section{
     border-radius: 5px;
     background-color: rgba(20, 241, 149,0.6);
     color: #000;
+    line-height: 30px;
 }
 .hover-text h3{
     text-transform: capitalize;
 }
 .project:hover .hover-text{
     opacity: 1;
-}
-.project-1{
-    background-image: url(0.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
 }
 .btn{
     display: inline-block;
@@ -256,6 +252,7 @@ section{
     text-align: center;
     padding: 13px;
     padding-left: 15px;
+    transition: 0.5s;
 }
 .header-back{
     width: 110px;
